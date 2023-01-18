@@ -1,5 +1,7 @@
 # Hi there 👋 
 
+<strong>TALK IS CHEAP. SHOW ME THE CODE</strong>
+
 ![](https://www.lambdatest.com/blog/wp-content/uploads/2019/02/Untitled-1.gif)
 
 
