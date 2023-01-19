@@ -33,21 +33,23 @@
 
 ## Because... :arrow_heading_down:
 
-###  :one: It Challenges Me
+###  :one: It Challenges Me 😀
 
- Because every feature and every project provides different testing problems, there is never a straightforward, “one size fits all” testing solution. Some of the most fun we have in software testing is in finding the best possible testing strategy, tool and execution. Software testing is about looking at product from different angles, with different perspectives and testing it with different expectations. It is not always easy to develop the right mind set and test the product from different aspects.
+ Because every feature and every project provides different testing problems, there is never a straightforward, “one size fits all” testing solution. Some of the most fun I have in software testing is in finding the best possible testing strategy, tool and execution. Software testing is about looking at product from different angles, with different perspectives and testing it with different expectations. It is not always easy to develop the right mind set and test the product from different aspects.
 
-### 2️⃣ It is Satisfying
+### 2️⃣ It is Satisfying 😆
 
-Resolving issues in Software Testing is like doing a puzzle – it’s completely frustrating until you find the correct piece! By finding and tracking bugs and developing ideas for improvement, you are contributing towards the betterment of the product, solving issues and perfecting methodologies for the project. Solving problems in Software Testing can be one of the most satisfying jobs.
+Resolving issues in Software Testing is like doing a puzzle – it’s completely frustrating until you find the correct piece! By finding and tracking bugs and developing ideas for improvement, I can contributing towards the betterment of the product, solving issues and perfecting methodologies for the project. I think , solving problems in Software Testing can be one of the most satisfying jobs.
 
-### 3️⃣ It is Complex
+### 3️⃣ It is Complex 📔
 
 Comprehending and testing products, while considering factors like functionality, performance, security and many others, is a multi-faceted and complex task. Furthermore, the intricacies due to mobile applications has exponentially complicated the testing of software. One of a software tester’s biggest challenges resides in understanding the vast range of devices available and checking the application’s behavior in terms of response time and usability.
 
-### 4️⃣ It Improves Quality
+### 4️⃣ It Improves Quality ✔️
 
-Software Testing is about more than just making sure that the program works. The ultimate purpose of software testing is not to find bugs, but to make the product superior. As a tester, you are contributing to improvements of the product’s quality, and therefore playing an important role in a company.
+Software Testing is about more than just making sure that the program works. The ultimate purpose of software testing is not to find bugs, but to make the product superior. As a tester, I can contributing to improvements of the product’s quality, and therefore playing an important role in a company.
 
 ### 5️⃣ I can Critique Other People’s Work  :neckbeard:
+
+A (healthy) critical attitude is an asset when it comes to software testing. I like to find faults in others’ work, so software testing is the job for me. However, it is always important to remember that this attitude should be limited to work and should not affect our relation with colleagues and personal life
 ![](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)
