@@ -28,3 +28,7 @@
         <code><img height="50" src="https://i.postimg.cc/q7VLCkbF/Screenshot-6.png"></code>
     </div>
 <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="center">
+
+### Why I Love Testing
+
+![](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)
