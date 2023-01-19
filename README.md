@@ -29,6 +29,14 @@
     </div>
 <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="center">
 
-### Why I Love Testing
+## Why I Love Testing
+
+## Because... :arrow_heading_down:
+
+###  :one: It Challenges Me
+
+ Because every feature and every project provides different testing problems, there is never a straightforward, “one size fits all” testing solution. Some of the most fun we have in software testing is in finding the best possible testing strategy, tool and execution. Software testing is about looking at product from different angles, with different perspectives and testing it with different expectations. It is not always easy to develop the right mind set and test the product from different aspects.
+
+
 
 ![](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)
