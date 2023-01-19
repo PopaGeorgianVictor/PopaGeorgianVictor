@@ -15,4 +15,11 @@
 - 🔭 I’m currently working on <strong>Deep Learning</strong> :cd:                
 - 💬 Ask me about <strong>anything and I would like to answer</strong> :telephone_receiver:  
 - :panda_face: You can contact me on [Linkedin](https://www.linkedin.com/in/popa-georgian-victor-013775222/) :iphone:
+- 🌱 Languages and Tools: 
 
+    <div>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    </div>
+<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="center">
