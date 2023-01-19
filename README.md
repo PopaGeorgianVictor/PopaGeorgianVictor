@@ -53,7 +53,13 @@ Software Testing is about more than just making sure that the program works. The
 
 A (healthy) critical attitude is an asset when it comes to software testing. I like to find faults in others’ work, so software testing is the job for me. However, it is always important to remember that this attitude should be limited to work and should not affect relation with colleagues and personal life.
 
+### 6️⃣  It is about Understanding the Customer 🛃
 
+A good software tester is the person who studies the market and understands the latest trends, comprehends what the customer wants, provides relevant information to the client, who interprets how important the product is for the customer and ultimately who can think like the customer and work on the product.
+
+### 7️⃣ I Learn Quickly and Implement New Ideas 💠
+
+Because software testers experience challenges me every day, they have to stretch my mind to understand a product’s functionality and general behavior, to improve analysis power, to learn new tools and to implement the learning in real life. What is even more critical than understanding is innovation, the generation of new ideas, and being able to comprehend the big picture.
 
 
 ![](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)
