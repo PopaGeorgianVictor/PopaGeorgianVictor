@@ -51,7 +51,7 @@ Software Testing is about more than just making sure that the program works. The
 
 ### 5️⃣ I can Critique Other People’s Work  :neckbeard:
 
-A (healthy) critical attitude is an asset when it comes to software testing. I like to find faults in others’ work, so software testing is the job for me. However, it is always important to remember that this attitude should be limited to work and should not affect our relation with colleagues and personal life.
+A (healthy) critical attitude is an asset when it comes to software testing. I like to find faults in others’ work, so software testing is the job for me. However, it is always important to remember that this attitude should be limited to work and should not affect my relation with colleagues and personal life.
 
 
 ![](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)
