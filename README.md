@@ -39,8 +39,15 @@
 
 ### 2️⃣ It is Satisfying
 
+Resolving issues in Software Testing is like doing a puzzle – it’s completely frustrating until you find the correct piece! By finding and tracking bugs and developing ideas for improvement, you are contributing towards the betterment of the product, solving issues and perfecting methodologies for the project. Solving problems in Software Testing can be one of the most satisfying jobs.
+
+### 3️⃣ It is Complex
+
 Comprehending and testing products, while considering factors like functionality, performance, security and many others, is a multi-faceted and complex task. Furthermore, the intricacies due to mobile applications has exponentially complicated the testing of software. One of a software tester’s biggest challenges resides in understanding the vast range of devices available and checking the application’s behavior in terms of response time and usability.
 
-### 3️⃣
+### 4️⃣ It Improves Quality
 
+Software Testing is about more than just making sure that the program works. The ultimate purpose of software testing is not to find bugs, but to make the product superior. As a tester, you are contributing to improvements of the product’s quality, and therefore playing an important role in a company.
+
+### 5️⃣ I can Critique Other People’s Work  :neckbeard:
 ![](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)
