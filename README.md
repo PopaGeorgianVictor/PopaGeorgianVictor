@@ -8,6 +8,7 @@
 
 ## Step By Step Toward The Goal
 
+<img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="150">
 
 - 🌱 I’m currently learning <strong>to be Pythonic</strong> :snake:
 - 👯 I’m looking to collaborate on <strong>Automation Testing</strong> :computer:
