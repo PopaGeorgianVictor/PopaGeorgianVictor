@@ -37,6 +37,10 @@
 
  Because every feature and every project provides different testing problems, there is never a straightforward, “one size fits all” testing solution. Some of the most fun we have in software testing is in finding the best possible testing strategy, tool and execution. Software testing is about looking at product from different angles, with different perspectives and testing it with different expectations. It is not always easy to develop the right mind set and test the product from different aspects.
 
+### 2️⃣ It is Satisfying
 
+Comprehending and testing products, while considering factors like functionality, performance, security and many others, is a multi-faceted and complex task. Furthermore, the intricacies due to mobile applications has exponentially complicated the testing of software. One of a software tester’s biggest challenges resides in understanding the vast range of devices available and checking the application’s behavior in terms of response time and usability.
+
+### 3️⃣
 
 ![](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)
