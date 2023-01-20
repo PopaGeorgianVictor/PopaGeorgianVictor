@@ -40,8 +40,9 @@
         <code><img height="70" src="https://i.postimg.cc/7hwNvWyL/Screenshot-6.png"></code>
   </div>
 
+<img src="https://media1.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif?cid=ecf05e473cm2tzolw8oxes7x1melwk64vot0zdr59t2v0j6k&rid=giphy.gif&ct=g" width="40%" align="right">
 
-<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="center">
+<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="45%" align="center">
 
 
 
@@ -77,7 +78,7 @@ A good software tester is the person who studies the market and understands the 
 
 Because software testers experience challenges me every day, they have to stretch my mind to understand a product’s functionality and general behavior, to improve analysis power, to learn new tools and to implement the learning in real life. What is even more critical than understanding is innovation, the generation of new ideas, and being able to comprehend the big picture.
 
-<img src="https://media1.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif?cid=ecf05e473cm2tzolw8oxes7x1melwk64vot0zdr59t2v0j6k&rid=giphy.gif&ct=g" width="40%" align="right">
+
 
 ![](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)
 
