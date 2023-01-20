@@ -2,7 +2,11 @@
 
 <strong>TALK IS CHEAP. SHOW ME THE CODE</strong> :alien:
 
+
+
 ![](https://www.lambdatest.com/blog/wp-content/uploads/2019/02/Untitled-1.gif)
+
+
 
 
 
@@ -34,7 +38,11 @@
         <code><img height="70" src="https://i.postimg.cc/zBRQDMMS/Screenshot-5.png"></code>
         <code><img height="70" src="https://i.postimg.cc/7hwNvWyL/Screenshot-6.png"></code>
   </div>
+
+
 <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="center">
+
+
 
 ## Why I Love Testing
 
@@ -70,3 +78,4 @@ Because software testers experience challenges me every day, they have to stretc
 
 
 ![](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)
+
