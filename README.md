@@ -10,14 +10,17 @@
 
 <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="150">
 
+ <h3> 👨🏻‍💻 About Me </h3>
+
 - 🌱 I’m currently learning <strong>to be Pythonic</strong> :snake:
 - 👯 I’m looking to collaborate on <strong>Automation Testing</strong> :computer:
 - 🔭 I’m currently working on <strong>Deep Learning</strong> :cd:                
 - 💬 Ask me about <strong>anything and I would like to answer</strong> :telephone_receiver:  
 - :panda_face: You can contact me on [Linkedin](https://www.linkedin.com/in/popa-georgian-victor-013775222/) :iphone:
-- 🌱 Languages , Tools and Methodologies: 
+ <h3> 💻  Languages , Tools and Methodologies: </h3>
 
-    <div>
+
+ <div>
         <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
         <code><img height="70" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
         <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -30,7 +33,7 @@
         <code><img height="70" src="https://i.postimg.cc/fLjbPHK5/Screenshot-4.png"></code>
         <code><img height="70" src="https://i.postimg.cc/zBRQDMMS/Screenshot-5.png"></code>
         <code><img height="70" src="https://i.postimg.cc/7hwNvWyL/Screenshot-6.png"></code>
-    </div>
+  </div>
 <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="center">
 
 ## Why I Love Testing
