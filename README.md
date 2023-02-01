@@ -38,6 +38,7 @@
         <code><img height="60" src="https://media4.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=ecf05e477bwmvvg3smdo6svgtjmxwngz0z3bghozrd43useq&rid=giphy.gif&ct=g"></code>
         <code><img height="70" src="https://i.postimg.cc/zBRQDMMS/Screenshot-5.png"></code>
         <code><img height="70" src="https://i.postimg.cc/7hwNvWyL/Screenshot-6.png"></code>
+        <code><img height="60" src="https://wso2.cachefly.net/wso2/sites/all/2021-theme/apim-2021/apim4-animations/apim-page-animation-get-business-insights-and-intelligence-through-APIs.gif"></code>
   </div>
 
 <img src="https://media1.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif?cid=ecf05e473cm2tzolw8oxes7x1melwk64vot0zdr59t2v0j6k&rid=giphy.gif&ct=g" width="40%" align="right">
