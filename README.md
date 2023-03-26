@@ -43,7 +43,7 @@
 
 <img src="https://media1.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif?cid=ecf05e473cm2tzolw8oxes7x1melwk64vot0zdr59t2v0j6k&rid=giphy.gif&ct=g" width="40%" align="right">
 
-<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="45%" align="center">
+<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="46%" align="center">
 
 
 
