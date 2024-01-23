@@ -44,9 +44,6 @@
         <code><img height="60" src="https://wso2.cachefly.net/wso2/sites/all/2021-theme/apim-2021/apim4-animations/apim-page-animation-get-business-insights-and-intelligence-through-APIs.gif"></code>
   </div>
 
-<img src="https://media1.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif?cid=ecf05e473cm2tzolw8oxes7x1melwk64vot0zdr59t2v0j6k&rid=giphy.gif&ct=g" width="40%" align="right">
-
-<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="46%" align="center">
 
 
 
@@ -81,8 +78,6 @@ A good software tester is the person who studies the market and understands the 
 ### 7️⃣ I Learn Quickly and Implement New Ideas 💠
 
 Because software testers experience challenges me every day, they have to stretch my mind to understand a product’s functionality and general behavior, to improve analysis power, to learn new tools and to implement the learning in real life. What is even more critical than understanding is innovation, the generation of new ideas, and being able to comprehend the big picture.
-
-
 
 ![](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)
 
