@@ -41,6 +41,7 @@
         <code><img height="60" src="https://media4.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=ecf05e477bwmvvg3smdo6svgtjmxwngz0z3bghozrd43useq&rid=giphy.gif&ct=g"></code>
         <code><img height="70" src="https://i.postimg.cc/zBRQDMMS/Screenshot-5.png"></code>
         <code><img height="70" src="https://i.postimg.cc/7hwNvWyL/Screenshot-6.png"></code>
+        <code><img height="70" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b9522q3o9ge3ohx66xzeffksv9qh7wazzutagym7kcv8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"></code>
         <code><img height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN4i3AAsYYKbxMwY5eQjA9l2Uic14vSdpl3g0qqm-AHRY8yk6t_5xSogp9P60Uj2uKgxA&usqp=CAU"></code>
         <code><img height="60" src="https://wso2.cachefly.net/wso2/sites/all/2021-theme/apim-2021/apim4-animations/apim-page-animation-get-business-insights-and-intelligence-through-APIs.gif"></code>
   </div>
